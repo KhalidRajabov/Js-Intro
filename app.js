@@ -58,3 +58,46 @@
 
 
 
+
+
+
+
+/*4) Bir method olsun göndərilən "n" sayda ədədin hamsını toplayıb geri qaytarsın. */
+
+// function Adder(arr) {
+//     let a=0;
+//     for (let index = 0; index < arr.length; index++) {
+//         const element = arr[index];
+//         a+=element;
+//     }
+//     return a;
+// }
+
+// console.log(Adder([1,2,3,4,5,6,7,8,9]))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*5) Sahe deyə Method(lar) yaradılır.
+Çevrənin sahəsi - S = p*r² (p=3)
+Düzbucaqlının sahəsi - S = a*b
+Üçbucaqlının daxilinə çəkilmiş çevrənin sahəsi - S=p*r; p=(a+b+c)/2 */
+
+
+
+
