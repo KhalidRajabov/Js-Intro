@@ -86,18 +86,3 @@
 
 
 
-
-
-
-
-
-
-
-/*5) Sahe deyə Method(lar) yaradılır.
-Çevrənin sahəsi - S = p*r² (p=3)
-Düzbucaqlının sahəsi - S = a*b
-Üçbucaqlının daxilinə çəkilmiş çevrənin sahəsi - S=p*r; p=(a+b+c)/2 */
-
-
-
-
