@@ -86,3 +86,29 @@
 
 
 
+// 5) Sahe deyə Method(lar) yaradılır.
+// Çevrənin sahəsi - S = p*r² (p=3)
+// Düzbucaqlının sahəsi - S = a*b
+// Üçbucaqlının daxilinə çəkilmiş çevrənin sahəsi - S=p*r; p=(a+b+c)/2
+
+
+// console.log(sahe(1,3,5,6));
+
+// function sahe() {
+//     let arry=Array.from(arguments);
+//     let result =0;
+//     if (arry.length==1) {
+//         result=3.14*arry[0];
+//     }
+//     if (arry.length==2) {
+//         result=arry[0]*arry[1];
+//     }
+//     if (arry.length==4) {
+//         let p= (arry[0]+arry[1]+arry[2])/2;
+//         result=p*arry[3];
+//     }
+//     else{
+//         console.log("uygun deyil");
+//     }
+//     return result;
+// }
